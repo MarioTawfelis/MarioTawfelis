@@ -1,3 +1,6 @@
+<h4>‼️Currently working on a project with proprietary code and hence cannot push to GitHub. I will be back soon though!‼️</h4>
+
+
 - 👋 Hi, I’m @MarioTawfelis
 - 👨‍💻 I am a Software Engineer @ <a href="https://www.xandertalent.com/">Xander</a>
 - 📚 I'm currently learning Scala and Functional Programming.
