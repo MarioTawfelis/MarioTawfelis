@@ -56,9 +56,6 @@
 </p>
 
 ##
-<br/>
-
-![LinkedIn Software   Data Engineering](https://user-images.githubusercontent.com/85391216/221840948-ce6c53c9-567f-4d8d-9feb-be55359de81e.png)
 
 <!---
 MarioTawfelis/MarioTawfelis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
