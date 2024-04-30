@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarioTawfelis!
-- 📚 I'm a Software Engineer with full stack experience using Python, Django, TypeScript, React and PostgreSQL.
+- 📚 I'm a Software Engineer with full stack experience using Python, Django, TypeScript, React and SQL.
 - 📫 You can reach me via my LinkedIn profile: https://www.linkedin.com/in/mariotawfelis/
 
 ##
